@@ -1,6 +1,6 @@
 /build
-*.cproject
+//*.cproject
 *.old
 sdkconfig
-*.project
-*.settings
+//*.project
+//*.settings
