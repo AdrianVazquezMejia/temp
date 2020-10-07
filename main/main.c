@@ -7,7 +7,7 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include <stdio.h>
-char *TAG = "INFO";
+char *TAG = "INFO2";
 void app_main() {
   while (1) {
     ESP_LOGI(TAG, "Hello World");
